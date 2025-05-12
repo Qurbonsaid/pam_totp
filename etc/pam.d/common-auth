@@ -1,0 +1,1 @@
+auth [success=1 default=ignore] pam_exec.so expose_authtok /usr/local/bin/pam_totp.py

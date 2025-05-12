@@ -1,0 +1,8 @@
+Package: pam-totp
+Version: 1.0
+Section: admin
+Priority: optional
+Architecture: all
+Maintainer: Kuzatuvchi <kuzatuvchi.my@gmail.com>
+Description: PAM module for TOTP authentication (passwordless login)
+ This is a Python-based PAM verifier that replaces password prompts with TOTP authentication.
